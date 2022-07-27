@@ -1,2 +1,5 @@
-# Tugas6-crud2
-tugas6_crud2
+# Simple Create, Read, Update, Delete (CRUD) di PHP & MySQL
+
+##### - Sudah Termasuk Upload Foto
+
+##### - Database sudah tersedia dengan nama file **database.sql**
